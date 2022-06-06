@@ -8,7 +8,7 @@ case $input in
         echo "继续提交"
         git add -A
         git commit -m $1
-        git push origin master
+        git push origin main
                     exit 1
         ;;
     [nN][oO]|[nN])
