@@ -33,11 +33,22 @@
     <a href="./HashTable/LRUCache.md">2. 最近最少使用缓存</a>
 </div>
 
+## 链表
+
+<div>
+    <p/>
+    <a href="./LinkedList/ReverseLinkedList.md">1. 反转链表</a>
+</div>
+
+
+
 ## 排序
 
 <div>
     <p/>
     <a href="./Sort/CountingSort.md">1. 计数排序</a>
+    <p/>
+    <a href="./Sort/QuickSort.md">2. 快速排序</a>
 </div>
 
 
