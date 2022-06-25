@@ -14,7 +14,6 @@ class Solution {
             }
             index = partition(nums, left, right);
         }
-        // 
         // quickSort(nums, 0, nums.length - 1);
         return nums[index];
     }
