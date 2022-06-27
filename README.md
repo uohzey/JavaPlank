@@ -59,4 +59,12 @@
 </div>
 
 
+## DP
+
+<div>
+    <p/>
+    <a href="./DynamicProgramming/LongestCommonSubsequence.md">1. 最长公共子序列(LCS)</a>
+    <p/>
+    <a href="./DynamicProgramming/MaxSubArray.md">2. 最大子数组和</a>
+</div>
 
